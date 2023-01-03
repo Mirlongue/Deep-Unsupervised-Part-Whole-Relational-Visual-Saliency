@@ -312,6 +312,23 @@ class DRNSeg(nn.Module):
             yield param
         for param in self.seg.parameters():
             yield param
+            
+        for param in self.capsule_1.parameters():
+            yield param
+        for param in self.seg_cap_1.parameters():
+            yield param
+        for param in self.capsule_2.parameters():
+            yield param
+        for param in self.seg_cap_2.parameters():
+            yield param
+        for param in self.capsule_3.parameters():
+            yield param
+        for param in self.seg_cap_3.parameters():
+            yield param
+        for param in self.capsule_4.parameters():
+            yield param
+        for param in self.seg_cap_4.parameters():
+            yield param
 
 
 class SegList(torch.utils.data.Dataset):
