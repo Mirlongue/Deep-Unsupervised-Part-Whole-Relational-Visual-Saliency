@@ -1,6 +1,6 @@
 ﻿# Deep Unsupervised Part-Whole Relational Visual Saliency
 
-[Dataset and pretrained weight, refined saliency cues also.](https://pan.baidu.com/s/1rYU4Lk0w0CwCF--fM_wdWg 
+[Dataset and pretrained weight, refined saliency cues also saliency map(ECSSD,DUTS-TE,HKU-IS,PASCAL-S,DUT-OMRON).](https://pan.baidu.com/s/1rYU4Lk0w0CwCF--fM_wdWg 
 ) extraction code:anmh
 
 [support](https://github.com/Mirlongue/support)
